@@ -5,3 +5,13 @@
   justify-content: center;
   background-color: #333333;
 }
+.meme-box img {
+  width: 100%;
+}
+.meme-box {
+  width: 100%;
+  max-width: 640px;
+  background-color: #ffffff;
+  margin: 30px auto 0 auto;
+  border: 1px solid #eaeaea;
+}
